@@ -344,6 +344,147 @@ Shopify is an equal opportunity employer committed to diversity and inclusion in
 This is a fantastic opportunity for those looking to kickstart their career in web development while working for one of the most innovative companies in e-commerce. Join us at Shopify and help redefine commerce around the world!
 `,
   },
+  {
+    title: "Backend Engineer at Coinbase",
+    type: "Full-time",
+    companyName: "Coinbase",
+    locationType: "Remote",
+    location: "New York, United States",
+    applicationEmail: "careers@coinbase.com",
+    applicationUrl: "https://coinbase.com/careers",
+    slug: "backend-engineer-at-coinbase-9",
+    salary: 180000,
+    approved: true,
+    description: `
+**About Coinbase:**
+
+Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency. We are a global leader in the crypto industry, building the bridge between the crypto ecosystem and traditional finance.
+
+**Job Description:**
+
+We are seeking a talented Backend Engineer to join our team and help us design and build the backend systems that power our products. You'll work on scalable, secure, and robust systems to ensure the best possible user experience.
+
+**Key Responsibilities:**
+
+- Design and implement backend services for Coinbase's core products.
+- Ensure high performance, reliability, and security of backend systems.
+- Collaborate with cross-functional teams to deliver features on time.
+- Write clean, maintainable, and well-documented code.
+- Debug production issues across services and levels of the stack.
+
+**Qualifications:**
+
+- Bachelor's degree in Computer Science or equivalent experience.
+- 3+ years of backend development experience.
+- Strong knowledge of Python, Go, or Java.
+- Experience with relational and non-relational databases.
+- Familiarity with distributed systems and microservices architecture.
+- Passion for cryptocurrency and blockchain technology is a plus.
+
+**Benefits:**
+
+- Competitive salary and stock options.
+- Health, dental, and vision insurance.
+- Flexible work arrangements.
+- 401(k) matching.
+- Professional development opportunities.
+
+Join us at Coinbase and help shape the future of finance.
+`,
+  },
+  {
+    title: "Frontend Developer at Notion",
+    type: "Full-time",
+    companyName: "Notion",
+    locationType: "Hybrid",
+    location: "San Francisco, California, United States",
+    applicationEmail: "jobs@notion.so",
+    applicationUrl: "https://notion.so/careers",
+    slug: "frontend-developer-at-notion-10",
+    salary: 140000,
+    approved: true,
+    description: `
+**About Notion:**
+
+Notion is a connected workspace where teams can manage their projects, documents, and knowledge in one place. We are building tools for thought that let people think and collaborate freely.
+
+**Job Description:**
+
+As a Frontend Developer at Notion, you will create delightful and intuitive interfaces that enable our users to work smarter and faster. You'll work closely with our design and backend teams to bring ideas to life.
+
+**Key Responsibilities:**
+
+- Develop and maintain web interfaces for Notion's applications.
+- Optimize user experiences for speed, scalability, and accessibility.
+- Collaborate with designers and backend engineers to implement new features.
+- Maintain high code quality through testing and code reviews.
+- Stay up-to-date with modern frontend development practices.
+
+**Qualifications:**
+
+- Strong proficiency in JavaScript, HTML, and CSS.
+- Experience with React.js and its ecosystem.
+- Familiarity with GraphQL and REST APIs.
+- Knowledge of performance optimization techniques.
+- A passion for building beautiful and functional user interfaces.
+
+**Benefits:**
+
+- Competitive salary and equity.
+- Comprehensive health and wellness benefits.
+- Flexible vacation policy.
+- Learning and development stipend.
+
+Join Notion and help redefine how people work and think.
+`,
+  },
+  {
+    title: "Data Scientist at Airbnb",
+    type: "Full-time",
+    companyName: "Airbnb",
+    locationType: "On-site",
+    location: "San Francisco, California, United States",
+    applicationEmail: "careers@airbnb.com",
+    applicationUrl: "https://airbnb.com/careers",
+    slug: "data-scientist-at-airbnb-11",
+    salary: 170000,
+    approved: true,
+    description: `
+**About Airbnb:**
+
+Airbnb is a global travel community that offers unique places to stay and things to do, powered by local hosts. We believe in creating a world where everyone can belong.
+
+**Job Description:**
+
+We are looking for a Data Scientist to join our team and help us make data-driven decisions that shape the future of travel. You'll work on analyzing user behavior, optimizing algorithms, and delivering insights to improve our platform.
+
+**Key Responsibilities:**
+
+- Analyze and interpret large datasets to identify trends and opportunities.
+- Develop and implement predictive models to enhance user experiences.
+- Collaborate with engineers and product managers to design experiments.
+- Create visualizations and reports to communicate insights.
+- Stay updated on the latest data science techniques and tools.
+
+**Qualifications:**
+
+- Bachelor's or Master's degree in a quantitative field.
+- Proficiency in Python, R, or SQL.
+- Experience with machine learning frameworks.
+- Strong analytical and problem-solving skills.
+- Excellent communication and storytelling abilities.
+
+**Benefits:**
+
+- Competitive salary and equity.
+- Travel credits for Airbnb stays.
+- Comprehensive health and wellness plans.
+- Learning and development programs.
+- Inclusive and diverse work environment.
+
+Join Airbnb and help us create a world where anyone can belong anywhere.
+`,
+  },
 ];
 
 module.exports = {
